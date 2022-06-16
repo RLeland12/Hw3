@@ -1,4 +1,5 @@
 # 03 JavaScript: Password Generator
+All Credit due to UTA and w3schools
 In this repository you will find the html, css and java for the password generator homework.
 Implimenting variables, functions, and events allow the user to create variables and criteria required for the activity of generating a random combination of numbers, letters, and special characters.
 
